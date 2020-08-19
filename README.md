@@ -1,2 +1,2 @@
-# NMS-listDerelicts.csv
+# NMS
 Public list of Derelicts
